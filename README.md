@@ -2,3 +2,4 @@
 frits works
 
 one tow 
+i study micropython

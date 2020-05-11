@@ -1,5 +1,8 @@
 # hello-word
 frits works
 
-one tow 
+one tow
+
 i study micropython
+
+good study
